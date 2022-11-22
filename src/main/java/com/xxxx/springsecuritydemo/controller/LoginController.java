@@ -67,7 +67,7 @@ public class LoginController {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("中国");
+		System.out.println("中国美国");
 	}
 
 }
